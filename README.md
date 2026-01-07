@@ -66,18 +66,6 @@ It follows a **day-wise structured approach** with clear practice questions and 
 
 ---
 
-## 📂 Repository Structure
-
-```
-Java-Daily-Practice/
-├── Java_Daily_Practice_Questions.pdf
-├── Java_Beginner_Practice_Solutions.pdf
-├── Java_Revision_Notes_Freshers.pdf
-└── README.md
-```
-
----
-
 ## 🧠 How to Use This Repository
 
 1. Start with Java_Revision_Notes_Freshers.pdf
